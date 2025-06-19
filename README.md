@@ -1,7 +1,7 @@
 # InnovateTech
 A modern, dynamic design with light/dark mode, custom loader, responsive navbar, and cutting-edge visual effects
 
-This project is a full-featured analytics dashboard that combines:
+This project is a full-featured front-end web page that combines:
 
 🚀 A custom animated loading screen
 
